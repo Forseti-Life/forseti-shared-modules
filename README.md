@@ -1,4 +1,5 @@
 <!-- AUTOMATION VALIDATION: 2026-04-23 - automation of development confirmed for this repo -->
+<!-- AUTOMATION VALIDATION: 2026-04-23 - automation of development confirmed for this repo -->
 # Shared Modules
 
 Drupal modules in this directory are used by multiple sites on this server.
